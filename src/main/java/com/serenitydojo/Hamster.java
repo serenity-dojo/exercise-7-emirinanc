@@ -10,6 +10,6 @@ public class Hamster extends Pet {
 
     @Override
     public String play() {
-        return "runs on wheel";
+        return "runs in wheel";
     }
 }
